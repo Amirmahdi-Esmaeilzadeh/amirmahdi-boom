@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Amirmahdi Esmaeilzadeh
 - 👀 I’m interested in Artificial intelligence and robotics. I am working in them for five years
-- 📫 you can see my tutorials in digibotech(me and mahdi group) youtube channek
+- 📫 you can see my tutorials in botiot youtube and apart channel
 
 <!---
 amirmahdi-boom/amirmahdi-boom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
